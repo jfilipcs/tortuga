@@ -13,7 +13,7 @@ public class POO {
      this.joe =  new Turtle(); 
    }
    
-   public void dibujar(){
+   public void cuadrado(){
        for(int i=0;i<4;i++){
       joe.fd(20);
       joe.rt(90);
