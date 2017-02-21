@@ -24,7 +24,7 @@ public class POO {
      */
     public static void main(String[] args) {
        POO e = new POO();
-       e.dibujar();
+       
     }
     
 }
